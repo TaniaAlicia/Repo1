@@ -1,1 +1,3 @@
 prueba2
+hoy es jueves 25
+esto es error a modificar
